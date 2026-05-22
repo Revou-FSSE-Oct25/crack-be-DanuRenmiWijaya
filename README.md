@@ -15,7 +15,7 @@ Sistem ini mengelola autentikasi ganda (Admin & Pasien), kontrol data medis (CRU
 - **Framework:** NestJS (v11+)
 - **Language:** TypeScript
 - **Database ORM:** Prisma Client
-- **Database:** PostgreSQL
+- **Database:** PostgreSQL,Supabase `https://supabase.com/dashboard/project/vbpjijegrcphtvejtmbi`
 - **Security:** Passport JWT, Bcrypt, Class-Validator
 - **Utilities:** ExcelJS
 
