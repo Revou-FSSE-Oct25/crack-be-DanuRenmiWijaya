@@ -15,7 +15,7 @@ Sistem ini mengelola autentikasi ganda (Admin & Pasien), kontrol data medis (CRU
 - **Framework:** NestJS (v11+)
 - **Language:** TypeScript
 - **Database ORM:** Prisma Client
-- **Database:** PostgreSQL,Supabase `https://supabase.com/dashboard/project/vbpjijegrcphtvejtmbi`
+- **Database:** PostgreSQL, Supabase `https://supabase.com/dashboard/project/vbpjijegrcphtvejtmbi`
 - **Security:** Passport JWT, Bcrypt, Class-Validator
 - **Utilities:** ExcelJS
 
@@ -31,9 +31,12 @@ src/
 └── app.module.ts         # Modul utama konfigurasi proyek
 ```
 
-## ⚙️ Cara Menjalankan Proyek di Lokal
+## Beckend Testing
+<img width="1920" height="1080" alt="Screenshot (263)" src="https://github.com/user-attachments/assets/2617d360-1fe2-40d1-86a1-5dcb30bb8514" />
 
+###
+Deployment :`https://crack-be-danu-renmi-wijaya.vercel.app/v1`
 
-### Jalankan Server Development
+### Jalankan Server Lokal
 API akan berjalan secara lokal di: `http://localhost:5000/api/v1`  
 Dokumentasi Swagger UI dapat diakses di: `http://localhost:5000/api/docs`
